@@ -3,7 +3,7 @@ import "./App.css";
 import Axios from "axios";
 import { Input, InputGroup } from "reactstrap";
 import Loader from "react-loader-spinner";
-import Results from "./components/Results";
+import Results from "./Results";
 
 class App extends Component {
   constructor(props) {
